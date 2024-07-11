@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#banner{
+    background-image: url(https://cryptohunter.vercel.app/banner2.jpg);
+}
+
+
+*{
+    /* border: 1px solid red ; */
+}
